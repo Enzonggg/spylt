@@ -43,7 +43,7 @@ A visually immersive and responsive landing page built with **Next.js**, **Tailw
 
 ## 🚀 Live Demo
 
-[🔗 View Live Demo](https://spylt-gsap-website.vercel.app)
+[🔗 View Live Demo](https://spylt-five-blue.vercel.app/)
 
 
 ---
