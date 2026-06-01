@@ -53,8 +53,8 @@ A visually immersive and responsive landing page built with **Next.js**, **Tailw
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/ahmedragab15/spylt-gsap-website
-cd spylt-gsap-website-main
+git clone https://github.com/Enzonggg/spylt.git
+cd spylt-main
 ```
 
 ### 2. Install Decencies then Start
